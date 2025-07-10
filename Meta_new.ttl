@@ -125,55 +125,55 @@
     rdfs:range xsd:string ;
     rdfs:comment "The closest distance of the planet to the Sun in million km." .
 
-:aphelion rdf:type rdf:Property ;
+:aphelion106km rdf:type rdf:Property ;
     rdfs:label "Aphelion106km" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The farthest distance of the planet from the Sun in million km." .
 
-:orbitalPeriod rdf:type rdf:Property ;
+:orbitalperioddays rdf:type rdf:Property ;
     rdfs:label "Orbitalperioddays" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The time taken by the planet to complete one orbit around the Sun, in days." .
 
-:orbitalVelocity rdf:type rdf:Property ;
+:orbitalvelocitykms rdf:type rdf:Property ;
     rdfs:label "Orbitalvelocitykms" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The average orbital speed of the planet in km/s." .
 
-:orbitalEccentricity rdf:type rdf:Property ;
+:orbitaleccentricity rdf:type rdf:Property ;
     rdfs:label "Orbitaleccentricity" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The measure of how elliptical the planet's orbit is." .
 
-:obliquityToOrbit rdf:type rdf:Property ;
-    rdfs:label "obliquityToorbit" ;
+:obliquitytoorbitdegrees rdf:type rdf:Property ;
+    rdfs:label "Obliquitytoorbitdegrees" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The tilt of the planet's axis relative to its orbit, in degrees." .
 
-:surfacePressure rdf:type rdf:Property ;
+:surfacepressurebars rdf:type rdf:Property ;
     rdfs:label "Surfacepressurebars" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The atmospheric pressure at the planet's surface, in bars." .
 
-:surfaceTemperature rdf:type rdf:Property ;
+:surfacetemperaturec rdf:type rdf:Property ;
     rdfs:label "Surfacetemperaturec" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The average surface temperature of the planet, in degrees Celsius." .
 
-:atmosphericPressure rdf:type rdf:Property ;
-    rdfs:label "Atmosphericpressure" ;
+:atmosphericpressurebars rdf:type rdf:Property ;
+    rdfs:label "Atmosphericpressurebars" ;
     rdfs:domain :Planet ;
     rdfs:range xsd:string ;
     rdfs:comment "The pressure of the atmosphere at the surface, in bars." .
 
-:surfaceFeatures rdf:type rdf:Property ;
+:surfacefeatures rdf:type rdf:Property ;
     rdfs:label "Surfacefeatures" ;
     rdfs:domain :Planet ;
     rdfs:range rdf:Bag ;
