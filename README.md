@@ -261,34 +261,13 @@ Moons Information
 
 
 ### GraphDB Visualization
-
-
-
-
-
-
+[visuals in PDF]{https://github.com/shafeenyousafzaii/Solar-System-KnowledgeBase/blob/main/KRR_project_report%20(6).pdf}
 ### SPARQL Answers to Competency Questions
-
+[visuals in PDF]{https://github.com/shafeenyousafzaii/Solar-System-KnowledgeBase/blob/main/KRR_project_report%20(6).pdf}
 ### General Questions :
-
-
-
-
-
-
-
+[visuals in PDF]{https://github.com/shafeenyousafzaii/Solar-System-KnowledgeBase/blob/main/KRR_project_report%20(6).pdf}
 ### Planet Questions :
-
-
-
-
-
-
-## Features
-- **Ontology Design**: Represents planets, their properties, and relationships (e.g., moons, distances, orbits).
-- **Interactive Graphs**: Displays planet data interactively using **GraphDB**.
-- **Semantic Reasoning**: Supports logical inferences and data querying through linked data models.
-- **Collaboration**: Enables team-based modeling where each member contributed to specific planetary data.
+[visuals in PDF]{https://github.com/shafeenyousafzaii/Solar-System-KnowledgeBase/blob/main/KRR_project_report%20(6).pdf}
 
 ## Technologies Used
 - **Languages**: RDF, OWL, Turtle
