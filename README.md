@@ -1,34 +1,6 @@
-# Solar System Ontology (Turtle Format)
-
-## Project Overview
 # Solar System Explorer
 
 ## Knowledge Representation and Reasoning
-
-# Instructor: Shahzeb Khan
-
-
-# Team Members:
-
-#### Muhammad Shafeen
-
-#### Tazmeen Afroz
-
-#### Khizar Ali
-
-#### Ahmad Mohsin
-
-#### Aiman Arif
-
-#### Zabiullah Zahir
-
-#### Amber Khurshid
-
-#### Humna Khan
-
-#### Sarmad Khan
-
-#### Saad Karim
 
 
 ### Domain Description
@@ -312,19 +284,6 @@ Moons Information
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Features
 - **Ontology Design**: Represents planets, their properties, and relationships (e.g., moons, distances, orbits).
 - **Interactive Graphs**: Displays planet data interactively using **GraphDB**.
@@ -395,4 +354,3 @@ For queries or suggestions, feel free to reach out:
 - **Author**: Khizar Ali
 - **GitHub**: [Alikhizar142](https://github.com/Alikhizar142)
 - **Email**: p229269@pwr.nu.edu.pk
-
